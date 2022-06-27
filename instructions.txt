@@ -1,0 +1,3 @@
+hold control for switching mode on and off
+
+hold control+shift for changing the terrain
